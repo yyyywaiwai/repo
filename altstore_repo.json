@@ -18,13 +18,13 @@
             "localizedDescription": "Awesome tweak for Twitter",
             "downloadURL": "https://github.com/BandarHL/BHTwitter/releases/download/4.2-1/BHTwitter-trollstore.tipa",
             "size": 1
-        },
+        }
     ],
     "localizedDescription": "Awesome tweak for Twitter",
     "iconURL": "https://cdn.icon-icons.com/icons2/2091/PNG/512/twitter_icon_128462.png",
     "size": 1,
     "beta": false
-    }
+    },
     {
       "name": "Enmity",
       "bundleIdentifier": "com.hammerandchisel.discord",
