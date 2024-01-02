@@ -54,6 +54,32 @@
       "size": 130403080,
       "beta": false
     },
+    {
+    "name": "Filza(TS)",
+    "bundleIdentifier": "com.tigisoftware.Filza",
+    "developerName": "TIGI software",
+    "subtitle": "Filza File Manager, powerful File Manager for iPhone, iPad, iPod Touch",
+    "version": "4.0.0",
+    "versionDate": "2022-12-21",
+    "versionDescription": "Supported line numbers for TextEditor \nFixed laggy Apps Manager \nAdded xina jailbreak (rootless) environment varibles. Now support dpkg\nFixed text editor line number issue",
+    "downloadURL": "https://tigisoftware.com/download/Filza_4.0.0.ipa",
+    "versions": [
+        {
+            "version": "4.0.0",
+            "date": "2022-12-21",
+            "localizedDescription": "Supported line numbers for TextEditor \nFixed laggy Apps Manager \nAdded xina jailbreak (rootless) environment varibles. Now support dpkg\nFixed text editor line number issue",
+            "downloadURL": "https://tigisoftware.com/download/Filza_4.0.0.ipa",
+            "size": 1
+        }
+    ],
+    "localizedDescription": "Explore files and folders with list view or grid view. View/edit files with powerful viewers, includes: media player, plist editor, hex editor, text editor, ….",
+    "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/45/f9/03/45f9039c-b118-a158-014f-33a6a0c3c12d/source/512x512bb.jpg",
+       "screenshotURLs": [
+        "hhttps://www.tigisoftware.com/default/wp-content/uploads/2020/08/IMG_7248X-fs8-768x455.png"
+       ],
+    "size": 1,
+    "beta": false
+    }
   ],
   "news": [
     {
