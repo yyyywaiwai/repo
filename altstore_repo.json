@@ -18,17 +18,10 @@
           "localizedDescription": "- KFD Fix ( Please retry if the previous version failed )\r\n- Panic Fix",
           "downloadURL": "https://github.com/straight-tamago/misaka/releases/download/8.0.4/misaka-v8.0.4b2.ipa",
           "size": 30373602
-        },
-        {
-          "version": "8.0.4",
-          "date": "2024-1-2",
-          "localizedDescription": "KFD Fix ( Please retry if the previous version failed )\nPanic Fix",
-          "downloadURL": "https://github.com/straight-tamago/misaka/releases/download/8.0.4/misaka-v8.0.4b2.ipa",
-          "size": 1
         }
       ],
-      "localizedDescription": "Long description of this app. Show off how cool is!",
-      "iconURL": "link_to_app_icon",
+      "localizedDescription": "The purpose of this application is to give iPhone users the ability to customise their phones without a jailbreak.\nAt this time we have over 24 default repositories and more than 400 tweaks available.\nMisaka is offered at no charge if somebody tried to sell it to you, report it",
+      "iconURL": "https://camo.githubusercontent.com/b7369e57f3575456f5983f331516dc3b5ee19255fd4534c0c2f97876fd363070/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f313135373735373039333039373532313136322f313138313232343735343939333138343834382f4170705f53746f72652d72656d6f766562672d707265766965772e706e67",
       "screenshotURLs": [
         "https://github.com/straight-tamago/misaka/blob/main/Misaka/images/1.jpg?raw=true",
         "https://github.com/straight-tamago/misaka/blob/main/Misaka/images/2.jpg?raw=true",
@@ -57,7 +50,7 @@
         }
       ],
       "localizedDescription": "Awesome tweak for Twitter",
-      "iconURL": "https://cdn.icon-icons.com/icons2/2091/PNG/512/twitter_icon_128462.png",
+      "iconURL": "https://s.widget-club.com/web/no2/242c8abd540edfc637c137a572361a93.png",
       "size": 130403080,
       "beta": false
     },
