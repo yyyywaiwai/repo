@@ -43,11 +43,18 @@
       "bundleIdentifier": "com.atebits.Tweetie2",
       "developerName": "BanderHL",
       "subtitle": "Awesome tweak for Twitter",
-      "version": "Update 4.2",
-      "versionDate": "2023-12-17",
-      "versionDescription": "",
-      "downloadURL": "https://github.com/BandarHL/BHTwitter/releases/download/4.2-1/BHTwitter-trollstore.tipa",
+      "version": "Update 4.3",
+      "versionDate": "2024-02-10",
+      "versionDescription": "- Upload custom voice\r\n- Select URL host like fxtwitter or vxtwitter of tweet after copy.\r\n- remove unnecessary options.",
+      "downloadURL": "https://github.com/BandarHL/BHTwitter/releases/download/4.3/BHTwitter-trollstore.tipa",
       "versions": [
+        {
+          "version": "Update 4.3",
+          "date": "2024-02-10",
+          "localizedDescription": "- Upload custom voice\r\n- Select URL host like fxtwitter or vxtwitter of tweet after copy.\r\n- remove unnecessary options.",
+          "downloadURL": "https://github.com/BandarHL/BHTwitter/releases/download/4.3/BHTwitter-trollstore.tipa",
+          "size": 126763085
+        },
         {
           "version": "Update 4.2",
           "date": "2023-12-17",
@@ -58,7 +65,7 @@
       ],
       "localizedDescription": "Awesome tweak for Twitter",
       "iconURL": "https://s.widget-club.com/web/no2/242c8abd540edfc637c137a572361a93.png",
-      "size": 130403080,
+      "size": 126763085,
       "beta": false
     },
     {
