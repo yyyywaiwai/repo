@@ -23,7 +23,7 @@
 | Type | Application | Bundle | Base | Version | Author | Working? | Availability |
 |:----:|:----------:|:------:|:------------:|:-------:|:------:|:------:|:------:|
 | Tweaked app | [uYou](https://github.com/MiRO92/uYou-for-YouTube) | com.google.ios.youtube | 18.14.1 | 3.0 | [MIRO92](https://github.com/MiRO92) | Semi(A/S) | A/S |
-| Tweaked app | [uYou+](https://github.com/qnblackcat/uYouPlus) | com.google.ios.youtube | 19.02.1-3.0.1 | 3.0 | [qnblackcat](https://github.com/qnblackcat) | Yes(any) | A/S |
+| Tweaked app | [uYou+](https://github.com/qnblackcat/uYouPlus) | com.google.ios.youtube | 19.07.4-3.0.3 | 3.0 | [qnblackcat](https://github.com/qnblackcat) | Yes(any) | A/S |
 | Tweaked app | [Enmity](https://enmity.app) | com.hammerandchisel.discord | 202.0 | v2.2.6-b5 | [enmity-mod](https://github.com/enmity-mod) | Yes(any) | A/S |
 | Tweaked app | [Rosiecord (Plumpy - GGSans)](https://github.com/acquitelol/rosiecord) | com.hammerandchisel.discord | v2.1.4 | 218 | [acquitelol](https://github.com/acquitelol) | Semi(S) | S |
 | Sideloaded | [Anime Now!](https://github.com/AnimeNow-Team/AnimeNow) | com.errorerrorerror.animenow | N/A | 3.0 | [errorerrorerror](https://github.com/errorerrorerror) | Yes(any) | A/S |
